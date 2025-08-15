@@ -5,7 +5,6 @@
 ![Visitantes](https://komarev.com/ghpvc/?username=GabrielCasteloDev&style=flat-square&color=blue)
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na [UNIUBE]()  
-💻 Apaixonado por **desenvolvimento front-end**, UX/UI e projetos criativos  
 
 ---
 
