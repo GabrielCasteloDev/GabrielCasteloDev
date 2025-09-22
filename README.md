@@ -1,12 +1,4 @@
-# 👋 Olá! Eu sou o Gabriel Castelo
 
-![🚧 Em construção](https://img.shields.io/badge/🚧%20Perfil-Em%20Construção-orange?style=flat-square)
-![🟢 Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=flat-square)
-![Visitantes](https://komarev.com/ghpvc/?username=GabrielCasteloDev&style=flat-square&color=blue)
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na [UNIUBE]()  
-
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
